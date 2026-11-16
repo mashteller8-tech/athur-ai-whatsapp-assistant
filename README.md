@@ -63,4 +63,5 @@ Copy .env.example to .env and configure your API credentials.
 ### Start Athur
 
 In the working directory, run this command to start the bot.
+
 node index.js
