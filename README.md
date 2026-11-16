@@ -32,3 +32,35 @@ The objective of Athur is to explore the integration of artificial intelligence 
 The project combines AI, natural language processing, automation, and persistent memory to demonstrate how intelligent agents can improve digital communication.
 
 **Project Type:** Artificial Intelligence | Chatbot Development | WhatsApp Automation | Natural Language Processing
+
+## Installation 
+## Installation
+
+### Requirements
+
+- Node.js (LTS)
+- npm
+- Git
+- WhatsApp account
+- Internet connection
+
+### Clone the repository
+
+git clone https://github.com/USERNAME/athur-ai-whatsapp-assistant.git
+
+### Enter project directory
+
+cd athur-ai-whatsapp-assistant
+
+### Install dependencies
+
+npm install
+
+### Configure environment variables
+
+Copy .env.example to .env and configure your API credentials.
+
+### Start Athur
+
+In the working directory, run this command to start the bot.
+node index.js
