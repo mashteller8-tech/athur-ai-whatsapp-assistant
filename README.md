@@ -46,7 +46,7 @@ The project combines AI, natural language processing, automation, and persistent
 
 ### Clone the repository
 
-git clone https://github.com/USERNAME/athur-ai-whatsapp-assistant.git
+git clone https://github.com/mashteller8-tech/athur-ai-whatsapp-assistant.git
 
 ### Enter project directory
 
